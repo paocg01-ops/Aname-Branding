@@ -1,10 +1,12 @@
 # Aname Branding Design System
 
-A comprehensive design system for the Aname brand, including logos, brand guidelines, and visual assets for use across all design applications and platforms.
+A comprehensive design system for **Aname Business Intelligence**, including logos, brand guidelines, and visual assets for use across all design applications and platforms.
 
 ## Overview
 
-This repository contains the official Aname branding assets and design system documentation. It is designed to be imported into Claude Design for seamless design workflow integration. All assets are organized by type and format for easy accessibility and implementation.
+This repository contains the official branding assets and design system documentation for **Aname Business Intelligence** (abbreviated as "Aname"). It is designed to be imported into Claude Design for seamless design workflow integration. All assets are organized by type and format for easy accessibility and implementation.
+
+**Note:** "Aname" is shorthand for "Aname Business Intelligence" — the complete company name.
 
 ## 📦 Contents
 
@@ -189,22 +191,22 @@ Aname-Branding/
 
 ## 🤝 Contributing
 
-This repository is actively maintained with expanding asset libraries. Each release includes new materials to support the comprehensive Aname brand identity across all channels and formats.
+This repository is actively maintained with expanding asset libraries. Each release includes new materials to support the comprehensive **Aname Business Intelligence** brand identity across all channels and formats.
 
 **Current Release**: Batch 2 includes professional photography, stationery collateral, branded product designs, and digital publications.
 
-To request additions, suggest improvements, or report issues with the design system, please contact the brand management team.
+To request additions, suggest improvements, or report issues with the design system, please contact the Aname Business Intelligence brand management team.
 
 ## ⚖️ License
 
-All branding assets in this repository are proprietary to Aname. Usage is restricted to authorized team members and approved partners. For licensing inquiries, please contact the brand team.
+All branding assets in this repository are proprietary to **Aname Business Intelligence**. Usage is restricted to authorized team members and approved partners. For licensing inquiries, please contact the brand management team.
 
 ## 📧 Contact
 
-For questions about the Aname Branding Design System or Claude Design integration, reach out to the design team.
+For questions about the **Aname Business Intelligence** Branding Design System or Claude Design integration, reach out to the design team.
 
 ---
 
 **Built for seamless integration with Claude Design** 🎨
 
-This design system is optimized for import into Claude Design, enabling efficient and consistent design workflows across all projects.
+This design system is optimized for import into Claude Design, enabling efficient and consistent design workflows across all Aname Business Intelligence projects.
