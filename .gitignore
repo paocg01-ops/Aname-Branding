@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.sublime-*
+
+# Node (if using design tools)
+node_modules/
+.env
+.env.local
+
+# Build/Temp files
+dist/
+build/
+temp/
+.cache/
+
+# OS
+*.log
+.DS_Store
