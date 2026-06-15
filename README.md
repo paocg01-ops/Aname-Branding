@@ -21,15 +21,44 @@ This repository contains the official Aname branding assets and design system do
 
 #### JPEG/ (Raster Format)
 - High-quality JPEG versions for various applications
-- 24 logo variations for different use cases
+- 28 logo variations for different use cases
 - **Logo Aname con Variantes para Registro IMPI/** - Special variants for intellectual property registration
   - Official registration variants (aname-01.jpg through aname-04.jpg)
 
 #### PNG/ (Transparent Format)
-- 17+ transparent PNG files for digital applications
+- 28 transparent PNG files for digital applications
 - Web-ready format with no background
 - Optimal for overlay and placement scenarios
-- Files: `aname-sinfondo-01.png` through `aname-sinfondo-17.png`
+- Files: `aname-sinfondo-01.png` through `aname-sinfondo-28.png`
+
+### Stationery & Collateral
+- **PAPELERIA/** - Business collateral and stationery assets
+  - FONDO DEGRADADO/ - Gradient background templates for branded materials
+  - HOJA-MEMBRETADA-aname.ai - Letterhead design file
+  - TARJETA PRESENTACION/ - Business card designs and templates
+  - MOCKUPS/ - Product mockups and device previews
+  - Additional branded stationery templates
+
+### Photography Assets
+- **FOTOS/** - Professional brand photography
+  - Fotos Aname por Paola Foto Arte/ - 83 professional photographs
+  - Curated imagery for web, social media, and marketing materials
+  - High-quality brand photography for visual consistency
+
+### Brand Notebooks & Products
+- **LIBRETAS/** - Branded notebooks and journal products
+  - Physical product designs and templates
+
+### Digital Publications
+- **eBooks FINALES/** - Finalized eBook and digital publication assets
+  - Ready-to-use digital content for distribution
+
+### Typography
+- **TIPOGRAFIAS/** - Brand font library
+  - Hero New UltraLight.otf - Light weight typography
+  - PointBold.otf - Bold weight typography
+  - PointBook.otf - Regular weight typography
+  - Taste Of Sweet fonts - Decorative typography options
 
 ## 🎯 Use Cases
 
@@ -80,15 +109,37 @@ Aname-Branding/
 ├── .gitignore
 ├── BRAND BOARD Y BRAND BOOK/
 │   └── BRANDBOARD ANAME.pdf
-└── LOGOTIPO/
-    ├── CURVAS/
-    │   └── Logo final ANAME.ai
-    ├── JPEG/
-    │   ├── aname-05.jpg through aname-24.jpg
-    │   └── Logo Aname con Variantes para Registro IMPI/
-    │       └── aname-01.jpg through aname-04.jpg
-    └── PNG/
-        └── aname-sinfondo-01.png through aname-sinfondo-17.png
+├── LOGOTIPO/
+│   ├── CURVAS/
+│   │   └── Logo final ANAME.ai
+│   ├── JPEG/
+│   │   ├── aname-05.jpg through aname-24.jpg
+│   │   └── Logo Aname con Variantes para Registro IMPI/
+│   │       └── aname-01.jpg through aname-04.jpg
+│   └── PNG/
+│       └── aname-sinfondo-01.png through aname-sinfondo-28.png
+├── PAPELERIA/
+│   ├── FONDO DEGRADADO/
+│   │   └── Gradient background templates
+│   ├── HOJA-MEMBRETADA-aname.ai
+│   ├── TARJETA PRESENTACION/
+│   │   ├── tarjetasaname.ai
+│   │   └── anamebussines-tarjeta.pdf
+│   ├── MOCKUPS/
+│   │   └── Product mockup files
+│   └── Additional stationery assets
+├── FOTOS/
+│   └── Fotos Aname por Paola Foto Arte/
+│       └── 83 professional photographs
+├── LIBRETAS/
+│   └── Branded notebook designs
+├── eBooks FINALES/
+│   └── Finalized digital publications
+└── TIPOGRAFIAS/
+    ├── Hero New UltraLight.otf
+    ├── PointBold.otf
+    ├── PointBook.otf
+    └── Taste Of Sweet fonts
 ```
 
 ## 🎨 Asset Summary
@@ -98,9 +149,14 @@ Aname-Branding/
 | Brand Guidelines | PDF | 1 | Complete brand documentation |
 | Master Logo | AI (Vector) | 1 | Editable source file |
 | Logo Variations - JPEG | JPEG | 28 | Raster format for various uses |
-| Logo Variations - PNG | PNG | 17+ | Transparent for digital use |
+| Logo Variations - PNG | PNG | 28 | Transparent for digital use |
+| Professional Photography | JPG | 83 | Brand imagery for marketing |
+| Stationery & Collateral | Mixed | 13 | Business cards, letterheads, mockups |
+| Branded Products | AI/PSD | 2 | Notebooks and journal designs |
+| Digital Publications | Files | 1 | eBooks and digital content |
+| Brand Fonts | OTF | 5+ | Typography for branding |
 
-**Total: 74+ files**
+**Total: 165+ files**
 
 ## 💡 Best Practices
 
@@ -123,15 +179,21 @@ Aname-Branding/
 
 ## 📝 Version Information
 
-**Version:** 1.0 (Initial Release)
+**Version:** 1.1 (Second Release)
 **Last Updated:** 2026-06-14
-**Status:** First batch of assets
+**Status:** Expanded asset library with photography, stationery, and products
+
+### Release Notes
+- **v1.1**: Added professional photography (83 images), stationery assets, branded products, and digital publications
+- **v1.0**: Initial release with logo variations, brand guidelines, and typography
 
 ## 🤝 Contributing
 
-This is the first batch of branding assets. Additional materials, updated guidelines, and new asset variations will be added in future releases.
+This repository is actively maintained with expanding asset libraries. Each release includes new materials to support the comprehensive Aname brand identity across all channels and formats.
 
-To request additions or report issues with the design system, please open an issue or contact the brand management team.
+**Current Release**: Batch 2 includes professional photography, stationery collateral, branded product designs, and digital publications.
+
+To request additions, suggest improvements, or report issues with the design system, please contact the brand management team.
 
 ## ⚖️ License
 

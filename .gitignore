@@ -17,6 +17,7 @@ $RECYCLE.BIN/
 *.swp
 *.swo
 .sublime-*
+.claude/
 
 # Node (if using design tools)
 node_modules/
