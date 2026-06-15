@@ -11,8 +11,10 @@ This repository contains the official branding assets and design system document
 ## 📦 Contents
 
 ### Brand Guidelines
-- **BRAND BOARD Y BRAND BOOK/** - Complete brand guidelines document
-  - `BRANDBOARD ANAME.pdf` - Comprehensive brand board and brand book with colors, typography, guidelines, and brand voice
+- **BRAND BOARD Y BRAND BOOK/** - Complete brand guidelines documentation
+  - `BRANDBOARD ANAME.pdf` - Comprehensive brand board and brand book (compressed, 759 KB)
+  - `BRANDBOARD_01.jpg` - High-quality image version (144 DPI, 3.3 MB) for design system integration
+  - Colors, typography, guidelines, and brand voice documentation
 
 ### Logo Assets
 - **LOGOTIPO/** - All logo variations and formats
